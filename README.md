@@ -27,7 +27,7 @@ verified: **false**
 
 ---  
 
-## Comunication File  
+## Communication File  
 
 The service uses:  
 **otp-service.txt**  
